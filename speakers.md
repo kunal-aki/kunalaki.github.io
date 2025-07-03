@@ -1,5 +1,5 @@
 ---
 layout: speakers
 title: About Me
-permalink: /speakers/
+permalink: /about/
 ---
