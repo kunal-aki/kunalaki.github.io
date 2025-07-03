@@ -1,5 +1,5 @@
 ---
-layout: organizers
+layout: post
 title: Blog
-permalink: /organizers/
+permalink: /blog/
 ---
