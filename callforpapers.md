@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /callforpapers/
+permalink: /projects/
 ---
 
 Your call for papers goes here.
