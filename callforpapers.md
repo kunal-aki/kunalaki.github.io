@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Your call for papers goes here.
+Upcoming project coming soon: Robotics Decision-Making with Raspberry Pi 4
