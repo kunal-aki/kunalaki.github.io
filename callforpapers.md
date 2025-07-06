@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Upcoming project coming soon: Robot Decision-Making with Raspberry Pi 4
+Project coming soon: Robot Decision-Making with Raspberry Pi 4
