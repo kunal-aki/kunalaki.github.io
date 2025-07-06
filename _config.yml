@@ -29,7 +29,6 @@ github_username:  rethinkmlpapers
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -45,9 +44,7 @@ header_pages:
 # masthead_description: Adapted from Machine Learning & Artificial Intelligence by mikemacmarketing; licensed under CC BY 2.0
 
 # A two-line attribution (remove this if you have to, but we'd appreciate if you leave this as is)
-attribution: >
-  Based on a <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> template from a <a href="https://krrish94.github.io">lazy grad student</a>.
-  Some icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
+
 
 # Displays a "last updated" date in the footer if set to "true"
 last_updated: true
