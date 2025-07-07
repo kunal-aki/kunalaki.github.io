@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: gradSLAM - Automagically differentiable SLAM
+title: Phantom Link: Bioengineered Nerve for Phantom Pain Treatment
 
 # Paper authors
-authors: Krishna Murthy Jatavallabhula, Soroush Saryazdi, Ganesh Iyer, and Liam Paull
+authors: Kunal Aki
 
 # Author affiliations
-affil: Mila, Universite de Montreal, Concordia University, and Carnegie Mellon University
+# affil: Mila, Universite de Montreal, Concordia University, and Carnegie Mellon University
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 pdf: 00.pdf
