@@ -1,5 +1,5 @@
 ---
 layout: papers
-title: Papers
-permalink: /papers/
+title: Projects
+permalink: /projects/
 ---
