@@ -1,5 +1,5 @@
 ---
-layout: organizers
+layout: post
 title: "Softbotics: Where Robotics Meets Biomedical Engineering"
 date: 2025-07-08 04:30:16 -0000
 author: Kunal Aki
