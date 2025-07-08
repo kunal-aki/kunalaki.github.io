@@ -5,9 +5,6 @@ sequence_id: 0
 # Paper title
 title: Phantom Link - Bioengineered Nerve for Phantom Pain Treatment
 
-# Paper authors
-authors: Kunal Aki
-
 # Author affiliations
 # affil: Mila, Universite de Montreal, Concordia University, and Carnegie Mellon University
 
